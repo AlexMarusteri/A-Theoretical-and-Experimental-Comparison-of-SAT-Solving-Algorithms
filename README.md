@@ -17,9 +17,8 @@ The purpose of this repository is to provide reference implementations of variou
 If you use this code in your research or project, please cite the paper:
 
 **A Theoretical and Experimental Comparison of SAT Solving Algorithms**  
-*Author(s): [Your Name(s)]*  
-*Year: [Year of Publication]*  
-*DOI/Link: [Insert Link or DOI if available]*
+*Author(s): [Alexandru Marusteri]*  
+*Year: [2025]*  
 
 ## Contents
 
