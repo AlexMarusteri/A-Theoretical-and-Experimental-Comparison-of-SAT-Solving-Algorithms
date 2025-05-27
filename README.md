@@ -14,8 +14,6 @@ The purpose of this repository is to provide reference implementations of variou
 
 ## Paper Reference
 
-If you use this code in your research or project, please cite the paper:
-
 **A Theoretical and Experimental Comparison of SAT Solving Algorithms**  
 *Author: Alexandru Marusteri*  
 *Year: 2025*  
